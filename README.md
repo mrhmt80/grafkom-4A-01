@@ -14,4 +14,4 @@
 |--|--|
 | NIM | **nim** |
 | Nama Lengkap | **nama** |
-| Kelas | TI-4B |
+| Kelas | TI-4A |
