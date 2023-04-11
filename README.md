@@ -12,6 +12,6 @@
 
 |  |  |
 |--|--|
-| NIM | **nim** |
-| Nama Lengkap | **nama** |
+| NIM | **21104410001** |
+| Nama Lengkap | **YUDHA GINONG PRATIDINA** |
 | Kelas | TI-4A |
